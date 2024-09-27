@@ -1,0 +1,4 @@
+﻿  lab_01_TYP.cpp
+C:\Users\ASUS\Desktop\UNI\СурГу\ТЯПиМТ\01\lab_01_TYP\lab_01_TYP\lab_01_TYP.cpp(50,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ASUS\Desktop\UNI\СурГу\ТЯПиМТ\01\lab_01_TYP\lab_01_TYP\lab_01_TYP.cpp(61,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab_01_TYP.vcxproj -> C:\Users\ASUS\Desktop\UNI\СурГу\ТЯПиМТ\01\lab_01_TYP\x64\Debug\lab_01_TYP.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0421\u0443\u0440\u0413\u0443\\\u0422\u042F\u041F\u0438\u041C\u0422\\01\\lab_01_TYP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6354F0FC-1F54-461D-BE67-5AEFACA5F198}|lab_01_TYP\\lab_01_TYP.vcxproj|C:\\Users\\ASUS\\Desktop\\UNI\\\u0421\u0443\u0440\u0413\u0443\\\u0422\u042F\u041F\u0438\u041C\u0422\\01\\lab_01_TYP\\lab_01_TYP\\lab_01_TYP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6354F0FC-1F54-461D-BE67-5AEFACA5F198}|lab_01_TYP\\lab_01_TYP.vcxproj|solutionrelative:lab_01_TYP\\lab_01_TYP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab_01_TYP.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0421\u0443\u0440\u0413\u0443\\\u0422\u042F\u041F\u0438\u041C\u0422\\01\\lab_01_TYP\\lab_01_TYP\\lab_01_TYP.cpp",
+              "RelativeDocumentMoniker": "lab_01_TYP\\lab_01_TYP.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0421\u0443\u0440\u0413\u0443\\\u0422\u042F\u041F\u0438\u041C\u0422\\01\\lab_01_TYP\\lab_01_TYP\\lab_01_TYP.cpp",
+              "RelativeToolTip": "lab_01_TYP\\lab_01_TYP.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T15:48:14.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
